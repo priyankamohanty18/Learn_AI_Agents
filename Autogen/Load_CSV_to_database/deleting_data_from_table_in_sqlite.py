@@ -13,8 +13,8 @@ llm_config ={
     "api_key" : os.getenv("OPENAI_API_KEY")
 }
 
-file_path = './prod.csv'
-db_path = './db_autogen.db'
+file_path = './data/prod.csv'
+db_path = './db/db_autogen.db'
 table_name = 'product'
    
 def delete_product(db_path: str, table_name: str, product_id: int):
