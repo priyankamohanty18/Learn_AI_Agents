@@ -1,1 +1,5 @@
-
+Product_ID,Product_Name,Category,Price,Stock_Quantity,Supplier,Launch_Date,Rating
+101,Laptop X1,Electronics,1200.0,50.0,Supplier A,2023-05-10,4.5
+102,Smartphone Z2,Electronics,700.0,30.0,Supplier B,2023-02-15,4.0
+103,Tablet T9,Electronics,450.0,20.0,Supplier C,2022-12-20,3.8
+104,Headphones H1,Accessories,90.0,80.0,Supplier D,2023-03-01,4.2
